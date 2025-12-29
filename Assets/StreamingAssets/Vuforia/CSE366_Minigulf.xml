@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="par_hole" size="0.500000 0.500000" />
+    <ImageTarget name="golf_start" size="0.500000 0.500000" />
+    <ImageTarget name="teleportation_hole_1" size="0.500000 0.500000" />
+    <ImageTarget name="teleportation_hole_2" size="0.500000 0.500000" />
+  </Tracking>
+</QCARConfig>
